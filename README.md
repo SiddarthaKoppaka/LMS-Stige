@@ -1,4 +1,4 @@
-This is my University LMS clone.<br>
+##This is LMS project done for Stige internship
 
 <h3>Features:</h3><br>
 

@@ -1,4 +1,4 @@
-##This is LMS project done for Stige internship
+<h1>This is LMS project done for Stige internship<h1>
 
 <h3>Features:</h3><br>
 
